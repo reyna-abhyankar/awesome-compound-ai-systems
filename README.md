@@ -44,6 +44,7 @@ _Components:_ augmented LLM serving
 _improves quality of agentic programs by up to 48% and reduces cost by up to 9x_  
 📢 https://x.com/yiying__zhang/status/1861222646408503374  
 📰 https://mlsys.wuklab.io/posts/cognify/  
+by [@gensee-ai](https://www.gensee.ai/)
 _Components:_ multi-agent systems
 
 * Help us by adding more entries here!
