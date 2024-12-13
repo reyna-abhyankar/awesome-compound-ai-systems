@@ -40,6 +40,12 @@ _serves 1.6x-2x more requests than vLLM at the same low latency_
 by [@reyna-abhyankar](https://github.com/reyna-abhyankar) et al.  
 _Components:_ augmented LLM serving
 
+* **[Cognify](https://github.com/GenseeAI/cognify/), an automated multi-faceted optimizer for gen-AI workflows** - 🏆  
+_improves quality of agentic programs by up to 48% and reduces cost by up to 9x_  
+📢 https://x.com/yiying__zhang/status/1861222646408503374  
+📰 https://mlsys.wuklab.io/posts/cognify/  
+_Components:_ multi-agent systems
+
 * Help us by adding more entries here!
 
 ## 🏭 Products / Real-world Systems
@@ -124,3 +130,4 @@ _We are migrating these systems to the top portion of the document! ⌛_
 * [Replit Code Repair](https://blog.replit.com/code-repair)
 * InferCept ✅
 * AlphaGeometry ✅
+* Cognify
