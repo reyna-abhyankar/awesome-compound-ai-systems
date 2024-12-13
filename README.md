@@ -45,7 +45,7 @@ _improves quality of compound AI systems by up to 48% and reduces cost by up to 
 📢 https://x.com/yiying__zhang/status/1861222646408503374  
 📰 https://mlsys.wuklab.io/posts/cognify/  
 by [@gensee-ai](https://www.gensee.ai/)
-_Components:_ multi-agent systems
+_Components:_ compound AI optimization
 
 * Help us by adding more entries here!
 
