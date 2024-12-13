@@ -40,8 +40,8 @@ _serves 1.6x-2x more requests than vLLM at the same low latency_
 by [@reyna-abhyankar](https://github.com/reyna-abhyankar) et al.  
 _Components:_ augmented LLM serving
 
-* **[Cognify](https://github.com/GenseeAI/cognify/), an automated multi-faceted optimizer for gen-AI workflows** - 🏆  
-_improves quality of agentic programs by up to 48% and reduces cost by up to 9x_  
+* **[Cognify](https://github.com/GenseeAI/cognify/), an automated multi-faceted optimizer for compound AI systems** - 🏆  
+_improves quality of compound AI systems by up to 48% and reduces cost by up to 9x_  
 📢 https://x.com/yiying__zhang/status/1861222646408503374  
 📰 https://mlsys.wuklab.io/posts/cognify/  
 by [@gensee-ai](https://www.gensee.ai/)
